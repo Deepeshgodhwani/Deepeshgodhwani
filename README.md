@@ -42,7 +42,7 @@
 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=deepeshgodwani&&show_icons=true&count_private=true&theme=github_dark">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshgodwani&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deepeshgodwani&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshgodwani&theme=blueberry_duo"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgodwani&layout=compact&theme=github_dark"/>
 
 

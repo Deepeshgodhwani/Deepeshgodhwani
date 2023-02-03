@@ -43,6 +43,23 @@
   <br /> <br/> <br/>
 </svg>  <br/>
 
+## ⚡ Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%230077B5.svg?&style=for-the-badge&color=orange&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%230077B5.svg?&style=for-the-badge&color=blue&logo=CSS3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%230077B5.svg?&style=for-the-badge&color=voilet&logo=BOOTSTRAP&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%230077B5.svg?&style=for-the-badge&color=black&logo=JAVASCRIPT&logoColor=yellow)
+![Jquery](https://img.shields.io/badge/JQUERY-%230077B5.svg?&style=for-the-badge&color=green&logo=JQUERY&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black")
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white")
+![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=deepeshgodwani&&show_icons=true&count_private=true&theme=github_dark">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshgodwani&theme=blueberry_duo"/>

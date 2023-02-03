@@ -40,12 +40,13 @@
   <img align="left" alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />
   <img align="left" alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"
    />
-</svg>  
+  <br /> <br/> <br/>
+</svg>  <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepeshgodwani&show_icons=true&locale=en&layout=compact" alt="deepeshgodwani" /></p>
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=deepeshgodwani&&show_icons=true&count_private=true&theme=github_dark">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshgodwani&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgodwani&layout=compact&theme=github_dark"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshgodwani&show_icons=true&locale=en" alt="deepeshgodwani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshgodwani&" alt="deepeshgodwani" /></p>
 

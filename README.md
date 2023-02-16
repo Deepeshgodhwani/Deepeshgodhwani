@@ -39,8 +39,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DeepeshGodwani&&hide=contribs,issues&show_icons=true&count_private=true&theme=dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgodwani&langs_count=8&layout=compact&theme=dark"/>
 
 ## <b>Top repository</b>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Instagram-clone)](https://github.com/Deepeshgodwani/Instagram-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=ChatTap)](https://github.com/Deepeshgodwani/ChatTap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=ReadyReads)](https://github.com/Deepeshgodwani/ReadyReads)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=WordCounter-Clone)](https://github.com/Deepeshgodwani/WordCounter-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Tunex)](https://github.com/Deepeshgodwani/Tunex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Microsoft-clone)](https://github.com/Deepeshgodwani/Microsoft-clone)
 
 
 

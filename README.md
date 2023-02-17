@@ -30,22 +30,45 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
-## <b> Connect with me </b>
+## <img src="https://res.cloudinary.com/dynjwlpl3/image/upload/v1676625129/Projects%20readme/dm4uz3-foekoe_u4ygwz.gif" width="25"> <b> Connect with me </b>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-<img src="https://github-readme-stats.vercel.app/api?username=DeepeshGodwani&&hide=contribs,issues&show_icons=true&count_private=true&theme=dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgodwani&langs_count=8&layout=compact&theme=dark"/>
+<p>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=DeepeshGodwani&&hide=contribs,issues&show_icons=true&count_private=true&theme=dark" height="139" alt="deepesh" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgodwani&langs_count=8&layout=compact&theme=dark" height="139" alt="deepesh"/>
+    
+</p>
 
-## <b>Top repository</b>
+## <img src="https://res.cloudinary.com/dynjwlpl3/image/upload/v1676625638/Projects%20readme/lets-go-hqo_njsbbx.gif" width="25"> <b>Top repository</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Instagram-clone)](https://github.com/Deepeshgodwani/Instagram-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=ChatTap)](https://github.com/Deepeshgodwani/ChatTap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=ReadyReads)](https://github.com/Deepeshgodwani/ReadyReads)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=WordCounter-Clone)](https://github.com/Deepeshgodwani/WordCounter-Clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Tunex)](https://github.com/Deepeshgodwani/Tunex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Microsoft-clone)](https://github.com/Deepeshgodwani/Microsoft-clone)
+
+<p>
+    <a href="https://github.com/Deepeshgodwani/Instagram-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Instagram-clone"  height="150"  alt="deepesh" />
+    </a>
+    <a href="https://github.com/Deepeshgodwani/ChatTap">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=ChatTap" height="150"  alt="deepesh" />
+    </a>
+    <a href="https://github.com/Deepeshgodwani/ReadyReads">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=ReadyReads" height="150"  alt="deepesh" />
+    </a>
+    <a href="https://github.com/Deepeshgodwani/WordCounter-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=WordCounter-Clone" height="150"  alt="deepesh" />
+    </a>
+     <a href="https://github.com/Deepeshgodwani/Tunex">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Tunex" height="150"  alt="deepesh" />
+    </a>
+    <a href="https://github.com/Deepeshgodwani/Microsoft-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=dark&repo=Microsoft-clone" height="150"  alt="deepesh"/>
+    </a>
+    
+</p>
+
+
 
 
 

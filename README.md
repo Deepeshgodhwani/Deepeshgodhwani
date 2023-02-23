@@ -56,22 +56,22 @@
 
 <p>
     <a href="https://github.com/Deepeshgodwani/Instagram-clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=Instagram-clone"  height="150"  alt="deepesh" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=Instagram-clone"    alt="deepesh" />
     </a>
     <a href="https://github.com/Deepeshgodwani/ChatTap">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=ChatTap" height="150"  alt="deepesh" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=ChatTap"  alt="deepesh" />
     </a>
     <a href="https://github.com/Deepeshgodwani/ReadyReads">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=ReadyReads" height="150"  alt="deepesh" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=ReadyReads"   alt="deepesh" />
     </a>
     <a href="https://github.com/Deepeshgodwani/WordCounter-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=WordCounter-Clone" height="150"  alt="deepesh" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=WordCounter-Clone"  alt="deepesh" />
     </a>
      <a href="https://github.com/Deepeshgodwani/Tunex">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=Tunex" height="150"  alt="deepesh" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=Tunex"   alt="deepesh" />
     </a>
     <a href="https://github.com/Deepeshgodwani/Microsoft-clone">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=Microsoft-clone" height="150" alt="deepesh"/> 
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=151515&repo=Microsoft-clone"  alt="deepesh"/> 
     </a>
     
 </p>

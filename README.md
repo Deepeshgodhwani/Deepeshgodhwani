@@ -2,6 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgodwani&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshgodwani" /> </p>
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
 
 - 🔭  I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc
 

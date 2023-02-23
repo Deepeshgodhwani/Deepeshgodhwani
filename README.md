@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgodwani&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshgodwani" /> </p>
 
-- 🔭 I’m currently working on **Instagram-clone**
+- 🔭  I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc
 
 - 🌱 I’m currently learning **Data structures & algorithm**
-
+- 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/Deepeshgodwani">Github </a>.
 - 💬 Ask me about **MERN , Data structures**
 
 - 📫 How to reach me **deepeshgodwani28@gmail.com**

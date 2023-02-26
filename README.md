@@ -74,7 +74,6 @@
     <a href="https://github.com/Deepeshgodwani/Microsoft-clone">
        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Microsoft-clone"  alt="Microsoft-clone"/> 
     </a>
-    
 </p>
 
 

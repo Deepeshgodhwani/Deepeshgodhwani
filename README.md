@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Deepesh Godwani</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3> -->
-<img align='center' src='https://github.com/Deepeshgodwani/ProfileBanner/blob/main/Beige%20Minimalist%20Coffee%20Desktop%20Wallpaper%20(1).gif' width="1000" height="400"/>
+<img align='center' src='https://github.com/Deepeshgodwani/ProfileBanner/blob/main/Banner.gif' width="1000" height="300"/>
 <!-- ![Banner Image](https://github.com/Deepeshgodwani/ProfileBanner/blob/main/Beige%20Minimalist%20Coffee%20Desktop%20Wallpaper%20(1).gif) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgodwani&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshgodwani" /> </p>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>

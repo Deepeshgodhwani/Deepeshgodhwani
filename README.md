@@ -66,14 +66,14 @@
     <a href="https://github.com/Deepeshgodwani/ReadyReads">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=ReadyReads"   alt="ReadyReads" />
     </a>
+     <a href="https://github.com/Deepeshgodwani/QR-Code-Generator-and-Scanner">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=QR-Code-Generator-and-Scanner"  alt="QR-Code-Generator-and-Scanner"/> 
+    </a>
     <a href="https://github.com/Deepeshgodwani/WordCounter-Clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=WordCounter-Clone"  alt="WordCounter clone" />
     </a>
      <a href="https://github.com/Deepeshgodwani/Tunex">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Tunex"   alt="Tunex" />
-    </a>
-    <a href="https://github.com/Deepeshgodwani/Microsoft-clone">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Microsoft-clone"  alt="Microsoft-clone"/> 
     </a>
 </p>
 

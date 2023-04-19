@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Deepesh Godwani</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3> -->
-<img align='center' src='https://github.com/Deepeshgodwani/ProfileBanner/blob/main/Profile_Banner.gif' width="1000" height="300"/>
+<img align='center' src='https://github.com/Deepeshgodhwani/ProfileBanner/blob/main/Profile_Banner.gif' width="1000" height="300"/>
 <!-- ![Banner Image](https://github.com/Deepeshgodwani/ProfileBanner/blob/main/Beige%20Minimalist%20Coffee%20Desktop%20Wallpaper%20(1).gif) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshgodwani&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshgodwani" /> </p>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
@@ -8,10 +8,10 @@
 - 🔭  I’m currently working with Nodejs, Express, React, Mongodb, Javascript, etc
 
 - 🌱 I’m currently learning **Data structures & algorithm**
-- 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/Deepeshgodwani">Github </a>.
+- 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/Deepeshgodhwani">Github </a>.
 - 💬 Ask me about **MERN , Data structures**
 
-- 📫 How to reach me **deepeshgodwani28@gmail.com**
+- 📫 How to reach me **deepeshgodhwani28@gmail.com**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 ![HTML5](https://img.shields.io/badge/HTML5-%230077B5.svg?&style=for-the-badge&color=orange&logo=HTML5&logoColor=white)
@@ -38,7 +38,7 @@
     <a  href="https://www.linkedin.com/in/deeepesh-godhwani-4269531b0/">
         <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a title="deepeshgodwani28@gmail.com" href="mailto:deepeshgodwani28@gmail.com">
+    <a title="deepeshgodwani28@gmail.com" href="mailto:deepeshgodhwani28@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="deepeshgodwani28@gmail.com" />
     </a>
     <a  href="https://www.instagram.com/">

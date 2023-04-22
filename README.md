@@ -48,8 +48,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 <p>
-    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=DeepeshGodwani&&hide=contribs,issues&show_icons=true&count_private=true&theme=vue-dark&border_color=41b883&bg_color=0d1117" height="139" alt="Contributions" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgodwani&langs_count=8&layout=compact&theme=vue-dark&border_color=41b883&bg_color=0d1117" height="139" alt="Languages"/>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api?username=DeepeshGodhwani&&hide=contribs,issues&show_icons=true&count_private=true&theme=vue-dark&border_color=41b883&bg_color=0d1117" height="139" alt="Contributions" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshgodhwani&langs_count=8&layout=compact&theme=vue-dark&border_color=41b883&bg_color=0d1117" height="139" alt="Languages"/>
     
 </p>
 
@@ -57,23 +57,23 @@
 
 
 <p>
-    <a href="https://github.com/Deepeshgodwani/Instagram-clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Instagram-clone"    alt="Instagram clone" />
+    <a href="https://github.com/Deepeshgodhwani/Instagram-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodhwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Instagram-clone"    alt="Instagram clone" />
     </a>
-    <a href="https://github.com/Deepeshgodwani/ChatTap">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=ChatTap"  alt="ChatTap" />
+    <a href="https://github.com/Deepeshgodhwani/ChatTap">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodhwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=ChatTap"  alt="ChatTap" />
     </a>
-    <a href="https://github.com/Deepeshgodwani/ReadyReads">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=ReadyReads"   alt="ReadyReads" />
+    <a href="https://github.com/Deepeshgodhwani/Exploding-kittens">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodhwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Exploding-kittens"   alt="Exploding-kittens" />
     </a>
-     <a href="https://github.com/Deepeshgodwani/QR-Code-Generator-and-Scanner">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=QR-Code-Generator-and-Scanner"  alt="QR-Code-Generator-and-Scanner"/> 
+    <a href="https://github.com/Deepeshgodhwani/ReadyReads">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodhwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=ReadyReads"   alt="ReadyReads" />
     </a>
-    <a href="https://github.com/Deepeshgodwani/WordCounter-Clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=WordCounter-Clone"  alt="WordCounter clone" />
+     <a href="https://github.com/Deepeshgodhwani/QR-Code-Generator-and-Scanner">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodhwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=QR-Code-Generator-and-Scanner"  alt="QR-Code-Generator-and-Scanner"/> 
     </a>
-     <a href="https://github.com/Deepeshgodwani/Tunex">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=Tunex"   alt="Tunex" />
+    <a href="https://github.com/Deepeshgodhwani/WordCounter-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepeshgodhwani&&theme=vue-dark&border_color=41b883&bg_color=0d1117&repo=WordCounter-Clone"  alt="WordCounter clone" />
     </a>
 </p>
 

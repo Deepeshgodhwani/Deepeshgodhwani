@@ -35,7 +35,7 @@
 ## <img src="https://res.cloudinary.com/dynjwlpl3/image/upload/v1676625129/Projects%20readme/dm4uz3-foekoe_u4ygwz.gif" width="25"> <b> Connect with me </b>
 
   <p>
-    <a target="_blank" href="https://www.linkedin.com/in/deeepesh-godhwani-4269531b0/">
+    <a target="_blank" href="https://www.linkedin.com/in/deepesh-godhwani/">
         <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a title="deepeshgodwani28@gmail.com" href="mailto:deepeshgodhwani28@gmail.com">

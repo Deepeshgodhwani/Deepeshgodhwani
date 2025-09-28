@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data structures & algorithm**
 - 👨🏻‍💻   Most of my projects are available on <a href="https://github.com/Deepeshgodhwani">Github </a>.
-- 💬 Ask me about **MERN , Data structures**
+- 💬 Ask me about *React, Web optimisations, AWS and Data structures**
 
 - 📫 How to reach me **deepeshgodhwani28@gmail.com**
 
